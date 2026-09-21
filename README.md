@@ -12,7 +12,6 @@ Building intelligent software powered by AI, Autonomous Workflows, and Modern We
 
 <p align="center">
   <a href="https://github.com/wasee1m"><img src="https://img.shields.io/github/followers/wasee1m?label=Follow&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
@@ -48,15 +47,6 @@ I am an **AI Engineer & Full-Stack Developer** focused on bridging machine learn
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasee1m&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasee1m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 🎯 Current Focus
 
 - Developing autonomous multi-agent task execution networks using **MCP & n8n**.
@@ -71,6 +61,8 @@ I am an **AI Engineer & Full-Stack Developer** focused on bridging machine learn
 - AI Engineering & Intelligent Automation
 - Full-Stack Web & Mobile Architecture
 - Freelance & Technical Collaborations
+
+Reach out via [LinkedIn](https://linkedin.com) or open an issue/discussion here on GitHub.
 
 ---
 
