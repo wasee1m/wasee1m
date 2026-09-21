@@ -2,301 +2,84 @@
 <!--                 WASEEM ALSEES GITHUB                  -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Waseem Alsees</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Full-Stack Developer • AI Automation Specialist
-</h3>
+# Hi 👋, I'm Waseem Alsees
+
+### AI Engineer • Full-Stack Developer • AI Automation Specialist
+
+Building intelligent software powered by AI, Autonomous Workflows, and Modern Web Systems.
 
 <p align="center">
-
-Building intelligent software powered by AI, Automation, and Modern Web Technologies.
-
+  <a href="https://github.com/wasee1m"><img src="https://img.shields.io/github/followers/wasee1m?label=Follow&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
----
-
-# 🚀 About Me
-
-I'm an **AI Engineer & Full-Stack Developer** passionate about building intelligent systems that combine modern software engineering with Artificial Intelligence.
-
-My work focuses on designing scalable AI-powered applications, autonomous workflows, and production-ready web solutions that solve real-world problems.
-
-### 💡 I enjoy working on
-
-- 🤖 AI Agents & Intelligent Automation
-- 🧠 Large Language Models (LLMs)
-- 🔗 n8n AI Workflows
-- 💬 Natural Language Processing (NLP)
-- 👁️ Computer Vision
-- 🌐 Full-Stack Web Applications
-- 📱 Cross-platform Mobile Apps
-- ⚙️ Backend Architecture & APIs
+</div>
 
 ---
 
-# 🛠 Tech Stack
+### 🚀 About Me
 
-## 🤖 AI & Machine Learning
+I am an **AI Engineer & Full-Stack Developer** focused on bridging machine learning research with robust, production-ready software engineering. 
 
-- OpenAI API
-- Claude API
-- Hugging Face
-- LangChain
-- Rasa
-- BERT
-- T5
-- CNN
-- OpenCV
-- YOLO
+- 🧠 **AI & Automation:** Designing multi-agent workflows, autonomous LLM pipelines (LangChain, n8n, MCP), and edge/embedded computer vision models.
+- 🌐 **Full-Stack Systems:** Engineering reliable backends (Laravel, FastAPI) paired with modern, responsive frontends (Next.js, React, Flutter).
+- ⚙️ **Production Mindset:** Prioritizing clean architecture, reproducible Docker environments, and rigorous model evaluation.
 
 ---
 
-## ⚡ AI Automation
+### 🛠 Tech Stack
 
-- n8n
-- AI Agents
-- Multi-Agent Systems
-- Function Calling
-- MCP
-- Workflow Automation
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,dart,js,fastapi,laravel,flask,react,nextjs,flutter,docker,mysql,linux,git,github" alt="Skills" />
+</div>
 
----
+<br/>
 
-## 💻 Backend
-
-- Laravel
-- FastAPI
-- Flask
-- Django
-- Node.js
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI & Machine Learning** | PyTorch, Hugging Face, YOLOv8, OpenCV, LangChain, Rasa NLU, Transformers (T5, BERT) |
+| **AI Automation & Agents** | n8n Workflows, Multi-Agent Systems, Tool/Function Calling, Model Context Protocol (MCP) |
+| **Backend & APIs** | Laravel, FastAPI, Flask, Node.js, RESTful APIs |
+| **Frontend & Mobile** | React, Next.js, Flutter, Tailwind CSS, Responsive/RTL UI |
+| **Databases & DevOps** | MySQL, MariaDB, Docker, Linux/Ubuntu, Git |
 
 ---
 
-## 🌐 Frontend
+### 📊 GitHub Activity & Metrics
 
-- React
-- Next.js
-- Vue.js
-- HTML5
-- CSS3
-
----
-
-## 📱 Mobile
-
-- Flutter
-- React Native
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasee1m&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasee1m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
 ---
 
-## 🗄 Databases
+### 🎯 Current Focus
 
-- MySQL
-- MariaDB
-- SQL
-
----
-
-## ☁ DevOps
-
-- Docker
-- Linux
-- Ubuntu
-- Git
-- GitHub
+- Developing autonomous multi-agent task execution networks using **MCP & n8n**.
+- Deploying hybrid **YOLOv8 + Depth Estimation** computer vision pipelines for real-time edge processing.
+- Architecting high-concurrency **Laravel & FastAPI** backends powering Flutter mobile clients.
 
 ---
 
-## 💻 Programming Languages
-
-Python • PHP • JavaScript • Dart • Java • C++
-
----
-
-# 🚀 Featured Projects
-
-## 💬 Bilingual AI Chatbot
-
-> Arabic & English conversational assistant powered by NLP.
-
-### Highlights
-
-- ✅ Rasa NLU
-- ✅ FastAPI
-- ✅ Next.js
-- ✅ Context-aware conversations
-- ✅ Arabic & English support
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-## 📝 AI Question Generation System
-
-Generate educational questions automatically using Transformer models.
-
-### Highlights
-
-- ✅ Fine-tuned T5
-- ✅ HuggingFace
-- ✅ React Dashboard
-- ✅ Node.js Backend
-- ✅ PDF / JSON Export
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-## ♻️ Smart Waste Classifier
-
-Computer Vision system for waste classification using Deep Learning.
-
-### Highlights
-
-- ✅ CNN
-- ✅ OpenCV
-- ✅ Flask API
-- ✅ Docker Deployment
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-## 📢 AI Marketplace Platform
-
-Cross-platform marketplace with AI-powered automation.
-
-### Features
-
-- ✅ Flutter
-- ✅ Laravel
-- ✅ AI Agent
-- ✅ n8n Automation
-- ✅ Payment Integration
-- ✅ Push Notifications
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-## 🛒 Modern E-Commerce Platform
-
-Scalable online shopping platform.
-
-### Features
-
-- ✅ Laravel
-- ✅ REST APIs
-- ✅ MySQL
-- ✅ Product Filters
-- ✅ Secure Checkout
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-## 📈 AI Marketing Automation Platform
-
-Marketing automation powered by AI workflows.
-
-### Features
-
-- ✅ n8n
-- ✅ AI Agents
-- ✅ GPT
-- ✅ Claude
-- ✅ Analytics Dashboard
-
-📸 Project Preview
-
-```
-Coming Soon...
-```
-
----
-
-# 🎯 Current Focus
-
-Currently exploring and building:
-
-- 🤖 AI Agents
-- 🧠 LLM Applications
-- 🔗 n8n Enterprise Automation
-- 👁 Computer Vision
-- 📱 Flutter Applications
-- ⚡ AI-powered SaaS
-
----
-
-# 🏆 Professional Goals
-
-- Build scalable AI products
-- Create intelligent automation systems
-- Develop production-quality software
-- Contribute to open-source AI projects
-
----
-
-# 📌 Repository Status
-
-> 🚧 **This GitHub profile is currently under active development.**
-
-I'm progressively publishing my projects with:
-
-- 📚 Complete documentation
-- 🧩 Clean architecture
-- 📐 Architecture diagrams
-- 🧪 Production-quality code
-- 📝 Technical write-ups
-
-Stay tuned 🚀
-
----
-
-# 📫 Let's Connect
+### 📫 Let's Connect
 
 💼 Open to:
-
-- AI Engineering
-- Full-Stack Development
-- AI Automation
-- Computer Vision
-- NLP
-- Freelance Projects
-- Remote Opportunities
-- Technical Collaborations
+- AI Engineering & Intelligent Automation
+- Full-Stack Web & Mobile Architecture
+- Freelance & Technical Collaborations
 
 ---
 
-# 💭 Philosophy
+### 💭 Engineering Philosophy
 
-> *Artificial Intelligence isn't just a tool I use to write code.*
->
-> *It's a development partner that helps transform ideas into scalable software.*
+> *"Artificial Intelligence isn't just an external tool—it is an architectural partner for transforming complex domain logic into scalable, autonomous software."*
 
 ---
 
-⭐ Thanks for visiting my profile!
-
-If you like my work, consider following my journey 🚀
+<div align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</div>
